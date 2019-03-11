@@ -15,3 +15,4 @@ SChool_Server文件夹:
 settings配置文件信息
 
 add some message
+add some messsage two
